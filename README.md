@@ -1,5 +1,7 @@
 # TypeScript Next.js example
 
+https://dev.to/prisma/complete-introduction-to-fullstack-type-safe-graphql-feat-next-js-nexus-prisma-c5?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email
+
 This is a really simple project that shows the usage of Next.js with TypeScript.
 
 ## Deploy your own
